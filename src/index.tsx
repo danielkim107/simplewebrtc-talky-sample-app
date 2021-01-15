@@ -85,7 +85,7 @@ const run = ({
           <br />
           {`<meta
   name="simplewebrtc-config-url"
-  content="https://api.simplewebrtc.com/config/guest/YOUR_API_KEY"
+  content="https://api.simplewebrtc.com/config/guest/9483e301264e5cc969d7bfb1"
 />`}
         </pre>
       </div>,
